@@ -65,7 +65,7 @@
       *                   REPORT. REORGANIZED PARAGRAPHS.             *
       *                                                               *
       *                                                               *
-      *      CREATED BY:  JOHN SAYLES                                 *
+      *      CREATED BY:  FRANCES CARTER                              *
       *     DESCRIPTION:  ORIGINAL CREATION OF PROGRAM                *
       *            DATE:  01/01/2008                                  *
       *****************************************************************
