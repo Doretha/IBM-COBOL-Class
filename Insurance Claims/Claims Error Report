@@ -1,0 +1,21 @@
+ 
+                                                  CLAIMS FILE DATA INPUT ERRORS REPORT
+                                                  ----------------------------------------------
+ 
+POLICY NUMBER     LAST NAME           FIRST NAME     FIELD IN ERROR                ERROR DESCRIPTION
+-------------     ---------------     ----------     -------------------------     ----------------------------------------------------------------------
+ - 18-378         GRIBOU              ANDRE          POLICY NUMBER                 POLICY NUMBER MUST BE NUMERIC
+1-BCD-EFG         MCKERNAN            JOSEPH         POLICY NUMBER                 POLICY NUMBER MUST BE NUMERIC
+0-000-000         MARIANO             THOMAS         POLICY NUMBER                 POLICY NUMBER CANNOT BE ZEROS
+6-738-730         KING                               FIRST NAME                    FIRST NAME MUST BE POPULATED
+5-389-879                             MARK           LAST NAME                     LAST NAME MUST BE POPULATED
+7-590-930         JOHNSON             KATE           POLICY TYPE                   INVALID POLICY TYPE.  VALID VALUES ARE 1, 2 OR 3
+1-193-787         PAUL                LENNOX         POLICY BENEFIT DATE           POLICY BENEFIT DATE MUST BE POPULATED
+8-389-779         KAY                 FRANK          POLICY AMOUNT                 POLICY AMOUNT MUST BE NUMERIC
+2-274-130         BROWN               MARY           POLICY DEDUCTIBLE PAID        POLICY DEDUCTIBLE PAID MUST BE NUMERIC
+3-326-176         MAKER               WANNAH         POLICY COINSURANCE            POLICY COINSURANCE MUST BE NUMERIC
+4-572-834         CARTER              FRANCIS        CLAIM AMOUNT                  CLAIM AMOUNT MUST BE NUMERIC
+9-913-234         CLAY                JULIE          CLAIM AMOUNT PAID             CLAIM AMOUNT PAID MUST BE NUMERIC
+0-018-378                             SUSAN          LAST NAME                     LAST NAME MUST BE POPULATED
+0-018-378                             SUSAN          CLAIM AMOUNT PAID             CLAIM AMOUNT PAID MUST BE NUMERIC
+1-389-397         TAKATA              SAMUEL         CLAIM AMOUNT                  CLAIM AMOUNT IS GREATER THAN MAXIMUM ALLOWABLE CLAIM FOR THIS POLICY
