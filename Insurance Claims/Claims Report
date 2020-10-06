@@ -1,0 +1,10 @@
+2020/10/05                                             GROUP CLAIMS DAILY REPORT
+                                                       -------------------------
+ 
+POLICY              POLICY       FIRST          LAST                RENEW          DEDUCT     COPAY             DEDUCT         CLAIM          CLAIM
+TYPE                NUMBER       NAME           NAME                DATE           MET        PERCENT           AMOUNT         AMOUNT         PAID
+---------------     --------     ----------     ---------------     ----------     -----     ----------       ----------     ----------     ----------
+PRIVATE             0-018-378    JOHN           SMITH               2020/03/19       N         15.0%              $40.00        $125.00         $66.25          
+MEDICARE            7-293-898    BEN            FRANKLIN            2020/12/25       N         16.0%             $206.00      $2,117.15      $1,572.41          
+AFFORDABLE CARE     5-787-378    TIAH           LIPTON              2021/02/05       Y         17.0%               $1.11        $100.35         $83.29          
+PRIVATE             7-825-930    NIA            LONG                2021/02/03       Y         18.0%             $127.80      $3,000.36      $2,460.30          
