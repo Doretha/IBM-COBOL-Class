@@ -1,0 +1,7 @@
+                                                   HOSPITAL PATIENT ERROR REPORT
+                                                   ==============================
+                                                                                                                                     
+PATIENT NO.  PATIENT NAME           FIELD IN ERROR   FIELD VALUE  ERROR MESSAGE
+===========  =====================  ===============  ===========  ===================================================================
+88888        Type Bad               PATIENT TYPE        X         INVALID PATIENT TYPE. VALID VALUES ARE I OR O
+99999        Type Bad               INSURANCE TYPE      XXX       INVALID INSURANCE TYPE. VALID VALUES ARE AFF, HMO MED, PPO, OR PRI
