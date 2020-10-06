@@ -1,0 +1,31 @@
+ 
+                                                  HOSPITAL PATIENT REPORT
+                                                  =======================
+ 
+PATNO  PATIENT                PHONE-NO        TYPE  BED   ADMIT   DAILY AMT   DIAG   INS  STAY    NETWORK  COPAY  DEDUCT
+=====  =====================  ==============  ====  ====  ======  ==========  ====   ===  ====    =======  =====  ======
+11111  Joanne Smith           (201) 652-1111   I    0001  051212      $46.11  010    HMO  012       OUT      $10    $15
+22222  Ricky Martin           (212) 444-1212   O    0002  520110     $111.11  623    PPO  006       IN       $90    $25
+63333  James Jones            (202) 555-1212   I    0003  042311       $7.86  547    HMO  020       OUT      $80    $35
+74444  BillieJoe McAllister   (876) 234-1234   I    0234  082309   $2,108.91  483    PRI  011       OUT      $70    $45
+55555  Lex Luthor             (764) 523-4324   I    0984  083112   $3,909.20  746    MED  000       IN       $60    $55
+66666  P.H. Barnum            (785) 435-4354   O    0783  060921       $3.89  439    HMO  025       IN       $50    $65
+98765  E.M. Clampett          (546) 443-2432   I    0013  051208      $21.08  138    PRI  030       OUT      $40    $75
+88888  Thomas Watson          (212) 764-3483   O    0022  052507     $109.01  329    PPO  010       OUT      $30    $75
+99999  Alex Hamilton          (909) 888-3213   I    0002  063006      $20.91  483    HMO  020       OUT      $20    $85
+10021  John Welch             (203) 652-0980   O    0001  073105      $10.11  010    AFF  040       IN       $10    $14
+12901  Frank Thomas           (203) 652-0980   O    0001  073105      $10.11  010    AFF  050       IN       $40    $89
+ 
+TOTAL RECORDS READ:                   013
+TOTAL GOOD RECORDS WRITTEN:           011
+TOTAL ERROR RECORDS:                  002
+TOTAL INPATIENT RECS:                 006
+TOTAL OUTPATIENT RECS:                005
+TOTAL HMO ACCOUNTS:                   004
+TOTAL PPO ACCOUNTS:                   002
+TOTAL PRIVATE ACCOUNTS:               002
+TOTAL AFFORDABLE ACCOUNTS:            002
+TOTAL STATE/FED (MEDICARE) ACCOUNTS:  001
+TOTAL NO COVERAGE ACCOUNTS:           000
+ 
+GROSS DAILY AMOUNT:      $6,358.30
